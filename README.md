@@ -15,4 +15,4 @@ some quick facts about me:
 - 😎 I love to read and share ideas with others
 
 <h1>Contact Me</h1>
-<p align="left"><a href="https://www.linkedin.com/in/khandaker-nahid-mahmud-3aab67141/">LinkedIn</a></p>
+<p align="left"><a href="https://www.linkedin.com/in/khandaker-nahid-mahmud-3aab67141/" target="_blank">LinkedIn</a></p>
