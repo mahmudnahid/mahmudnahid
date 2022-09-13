@@ -8,9 +8,11 @@ What am I up to now..? I am currently a student in [Applied A.I. Development Sol
 
 I am also looking for a co-op positions in data science industry in order to push my knowledge in the domain and grow!
 
-
 some quick facts about me:
 - 🏔 I've extensive backgorund in Mobile & Web Application development 
 - 👯 I'm an experienced project manager
 - 📈 I'm an emerging Data Analyst/ Engineer based in Toronto
 - 😎 I love to read and share ideas with others
+
+<h1>Contact Me</h1>
+<p align="left"><a href="https://www.linkedin.com/in/khandaker-nahid-mahmud-3aab67141/">LinkedIn</a></p>
