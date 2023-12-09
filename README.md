@@ -9,7 +9,7 @@ What am I up to now..? I am currently a Student Researcher at GBC Research Cente
 
 some quick facts about me:
 - 👯 I was a teaching assistant for Deep Learning II course at GBC
-- 🏔 I'm super excited about the A.I revolution 
+- 🏔 I'm very excited about the A.I revolution, [Assembly Theory(https://arxiv.org/abs/2206.02279)] and works of [Gregory J. Chaitin(https://www.researchgate.net/scientific-contributions/Gregory-J-Chaitin-81072593)]
 - 📈 I've more than 10 years of experience in software development, DevOps and project management
 - 😎 I love to read and share ideas with others
 
