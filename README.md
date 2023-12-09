@@ -2,7 +2,7 @@
 
 <h1>Welcome to my Github </h1>
 
-I'm a machine learning engineer/ data scientist with an extensive background in software engineering, DevOps and project management. I graduated in [Applied A.I. Development Solutions](https://www.georgebrown.ca/programs/applied-ai-solutions-development-program-postgraduate-t431) from George Brown College.
+I'm a machine learning engineer/ data scientist with an extensive background in software engineering, DevOps and project management. I graduated in [Applied A.I. Solutions Development ](https://www.georgebrown.ca/programs/applied-ai-solutions-development-program-postgraduate-t431) from George Brown College.
 
 What am I up to now..? I am currently a Student Researcher at GBC Research Center, developing A.I. solutions for green energy in transportation. And also the ML engineering team lead at M.N. Squared. Apart from that I am a student in [Cloud Computing Technologies](https://www.georgebrown.ca/programs/cloud-computing-technologies-program-postgraduate-t465) postgraduate program at George Brown College. 
 
