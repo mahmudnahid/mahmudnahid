@@ -2,17 +2,15 @@
 
 <h1>Welcome to my Github </h1>
 
-I'm an aspiring machine learning engineer and data science enthusiast with an extensive background in software engineering and project management. I graduated from Bangladesh University of Engineering & Technology.
+I'm a machine learning engineer/ data scientist with an extensive background in software engineering, DevOps and project management. I graduated in [Applied A.I. Development Solutions](https://www.georgebrown.ca/programs/applied-ai-solutions-development-program-postgraduate-t431) from George Brown College.
 
-What am I up to now..? I am currently a student in [Applied A.I. Development Solutions](https://www.georgebrown.ca/programs/applied-ai-solutions-development-program-postgraduate-t431) postgraduate program at George Brown College. This program will help me better prepare for the role of a Full Stack Data Scientist, who is qualified to fill the roles of Data Scientist, Data Analyst, Data Engineer or Machine Learning Engineer as needed. I will be given preparatory training and simulated experiences in tailoring their presentations to various target audiences including technical, business and investors. 
-
-I am also looking for a position in data science industry in order to push my knowledge in the domain and grow!
+What am I up to now..? I am currently a Student Researcher at GBC Research Center, developing A.I. solutions for green energy in transportation. And also the ML engineering team lead at M.N. Squared. Apart from that I am a student in [Cloud Computing Technologies](https://www.georgebrown.ca/programs/cloud-computing-technologies-program-postgraduate-t465) postgraduate program at George Brown College. 
 
 <!--
 some quick facts about me:
-- 🏔 I've extensive backgorund in Mobile & Web Application development 
-- 👯 I'm an experienced project manager
-- 📈 I'm an emerging Data Analyst/ Engineer based in Toronto
+- 👯 I was a teaching assistant for Deep Learning II course at GBC
+- 🏔 I'm super excited about the A.I revolution 
+- 📈 I've more than 10 years of experience in software development, DevOps and project management
 - 😎 I love to read and share ideas with others
 -->
 
