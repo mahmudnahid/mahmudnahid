@@ -6,13 +6,13 @@ I'm a machine learning engineer/ data scientist with an extensive background in 
 
 What am I up to now..? I am currently a Student Researcher at GBC Research Center, developing A.I. solutions for green energy in transportation. And also the ML engineering team lead at M.N. Squared. Apart from that I am a student in [Cloud Computing Technologies](https://www.georgebrown.ca/programs/cloud-computing-technologies-program-postgraduate-t465) postgraduate program at George Brown College. 
 
-<!--
+
 some quick facts about me:
 - 👯 I was a teaching assistant for Deep Learning II course at GBC
 - 🏔 I'm super excited about the A.I revolution 
 - 📈 I've more than 10 years of experience in software development, DevOps and project management
 - 😎 I love to read and share ideas with others
--->
+
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
